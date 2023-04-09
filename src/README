@@ -1,0 +1,6 @@
+# Starting the Project
+In the root directory open a command prompt 
+try npm install
+then try npm start
+it should then launch the server and you should be able to the the frontend
+
